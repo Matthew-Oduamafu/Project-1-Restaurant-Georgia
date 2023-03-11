@@ -2,5 +2,5 @@
 
 This project is all about using <strong>SASS</strong>
 
-To view site click here [![Netlify Status](https://api.netlify.com/api/v1/badges/c05921e7-b213-417c-bf36-51db6437b2f8/deploy-status)](https://georgia-restaurants.netlify.app/)
+To view site click here [![Netlify Status](<ion-icon name="checkmark-done-circle-outline"></ion-icon>)](https://georgia-restaurants.netlify.app/)
 
