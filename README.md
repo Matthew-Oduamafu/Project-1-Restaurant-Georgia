@@ -1,5 +1,19 @@
 # Application Of SASS (Restaurant-Georgia)
 
+[Click here to view site](https://georgia-restaurants.netlify.app/)
+
+
+
+To view site click here [![website1](https://user-images.githubusercontent.com/72637895/224475267-5e7daa59-9435-4858-8b0a-236c8c7054eb.png)](https://georgia-restaurants.netlify.app/)
+
+
+
+
+[![Short video of site](https://user-images.githubusercontent.com/72637895/226426549-98e04ab9-7198-4e30-8576-6c659858daae.mp4)](https://georgia-restaurants.netlify.app/)
+
+
+
+
 **Table of content**
 
 1. [SASS Variables](#sass-variables)
@@ -106,16 +120,3 @@ Sass Nesting can be used to apply style to a parent css selector and its child e
   }
 }
 ```
-
-[Click here to view site](https://georgia-restaurants.netlify.app/)
-
-
-
-To view site click here [![website1](https://user-images.githubusercontent.com/72637895/224475267-5e7daa59-9435-4858-8b0a-236c8c7054eb.png)](https://georgia-restaurants.netlify.app/)
-
-
-
-
-[![Short video of site](https://user-images.githubusercontent.com/72637895/226426549-98e04ab9-7198-4e30-8576-6c659858daae.mp4)](https://georgia-restaurants.netlify.app/)
-
-
